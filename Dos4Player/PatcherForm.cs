@@ -131,11 +131,13 @@ namespace Dos4Player
             }
 
             File.WriteAllBytes(binaryFile, exeBytes);
+            Directory.CreateDirectory(modsDir);
+            Directory.CreateDirectory(modsMainDir);
+            File.WriteAllText(metaFile, Properties.Resources.meta);
+
             patchedLabel.Text = "Yes";
             patchButton.Enabled = false;
             restoreButton.Enabled = true;
-
-            File.WriteAllText(metaFile, Properties.Resources.meta);
         }
 
         private void restoreButton_Click(object sender, EventArgs e)
@@ -146,14 +148,21 @@ namespace Dos4Player
             }
 
             File.WriteAllBytes(binaryFile, exeBytes);
+            File.Delete(metaFile);
+
+            if (Directory.EnumerateFiles(modsMainDir).Any() == false)
+            {
+                Directory.Delete(modsMainDir);
+            }
+
+            if (Directory.EnumerateFiles(modsDir).Any() == false)
+            {
+                Directory.Delete(modsDir);
+            }
+
             patchedLabel.Text = "No";
             patchButton.Enabled = true;
             restoreButton.Enabled = false;
-
-            if (File.Exists(metaFile))
-            {
-                File.Delete(metaFile);
-            }
         }
 
         private static string[] checkPaths =
