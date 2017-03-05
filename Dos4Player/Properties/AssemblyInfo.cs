@@ -6,9 +6,9 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("Dos4Player")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Divinity Original Sin 4 Player Patcher")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Microsoft")]
+[assembly: AssemblyCompany("Dos4Player")]
 [assembly: AssemblyProduct("Dos4Player")]
 [assembly: AssemblyCopyright("Copyright © Microsoft 2017")]
 [assembly: AssemblyTrademark("")]
