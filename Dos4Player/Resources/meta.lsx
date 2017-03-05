@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<save>
+    <header version="2" time="1459436113" />
+    <version major="2" minor="0" revision="0" build="0" />
+    <region id="Config">
+        <node id="root">
+            <children>
+                <node id="DataPacks">
+                    <children>
+                        <node id="DataPack">
+                            <attribute id="Folder" value="Shared" type="30" />
+                            <attribute id="MD5" value="" type="23" />
+                            <attribute id="Name" value="Shared" type="22" />
+                            <attribute id="UUID" value="2bd9bdbe-22ae-4aa2-9c93-205880fc6564" type="22" />
+                            <attribute id="Version" value="268435456" type="4" />
+                        </node>
+                        <node id="DataPack">
+                            <attribute id="Folder" value="Main" type="30" />
+                            <attribute id="MD5" value="" type="23" />
+                            <attribute id="Name" value="Main" type="22" />
+                            <attribute id="UUID" value="00000000-0000-0000-0000-000000000000" type="22" />
+                            <attribute id="Version" value="268435456" type="4" />
+                        </node>
+                    </children>
+                </node>
+                <node id="DependentModules">
+                    <children>
+                        <node id="ModuleShortDesc">
+                            <attribute id="Folder" value="Shared" type="30" />
+                            <attribute id="MD5" value="" type="23" />
+                            <attribute id="Name" value="Shared" type="22" />
+                            <attribute id="UUID" value="2bd9bdbe-22ae-4aa2-9c93-205880fc6564" type="22" />
+                            <attribute id="Version" value="268435456" type="4" />
+                        </node>
+                    </children>
+                </node>
+                <node id="ModuleInfo">
+                    <attribute id="Author" value="Larian Studios" type="30" />
+                    <attribute id="Description" value="Main game" type="30" />
+                    <attribute id="Folder" value="Main" type="30" />
+                    <attribute id="MD5" value="7b84bd28a6d042de2567d82123362310" type="23" />
+                    <attribute id="MenuLevelName" value="Menuscreen_Cyseal" type="22" />
+                    <attribute id="Name" value="Main" type="22" />
+                    <attribute id="NumPlayers" value="4" type="1" />
+                    <attribute id="StartupLevelName" value="CharacterCreation" type="22" />
+                    <attribute id="Tags" value="" type="30" />
+                    <attribute id="Type" value="EE" type="22" />
+                    <attribute id="UUID" value="00000000-0000-0000-0000-000000000000" type="22" />
+                    <attribute id="Version" value="268435456" type="4" />
+                    <children>
+                        <node id="Scripts" />
+                    </children>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>
