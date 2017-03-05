@@ -1,6 +1,8 @@
 
 # Divinity Original Sin 4 Player Patch
 
+![Screenshot](/screenshot.png?raw=true)
+
 A simple patcher for playing with up to 4 players for the game *Divinitiy: Original Sin*.
 The game and engine were built to support up to 4 players but for whatever reason
 they don't make it possible without modifying a few files literally changing a "2" to
