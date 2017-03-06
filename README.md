@@ -8,6 +8,10 @@ The game and engine were built to support up to 4 players but for whatever reaso
 they don't make it possible without modifying a few files literally changing a "2" to
 a "4" in various places to increase the limit from 2 to 4 players.
 
+## Download 
+
+* https://github.com/krisives/divinityfourplayer/releases
+
 ## What versions are supported?
 
 * 2.0.119.430
