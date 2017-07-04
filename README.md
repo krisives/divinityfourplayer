@@ -36,8 +36,7 @@ Yes.
 
 ## Does it work for the Steam version?
 
-It should but you have to pick the EXE manually and Steam might automatically patch it back. I need
-someone with Steam to test this.
+It should but you have to pick the EXE manually and Steam might automatically patch it back. (Thanks for [testing this DarthFutuza](https://github.com/krisives/divinityfourplayer/issues/1))
 
 ## Can I apply official patches afterwards?
 
