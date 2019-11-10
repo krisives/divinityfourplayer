@@ -41,7 +41,7 @@
                     <attribute id="MD5" value="fabbb7c2143d859b20326b414bc72adb" type="23" />
                     <attribute id="MenuLevelName" value="Menuscreen_Cyseal" type="22" />
                     <attribute id="Name" value="Main" type="22" />
-                    <attribute id="NumPlayers" value="4" type="1" />
+                    <attribute id="NumPlayers" value="2" type="1" />
                     <attribute id="StartupLevelName" value="CharacterCreation" type="22" />
                     <attribute id="Tags" value="" type="30" />
                     <attribute id="Type" value="EE" type="22" />
