@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <save>
-    <header version="2" time="1459436113" />
+    <header version="2" time="1459432880" />
     <version major="2" minor="0" revision="0" build="0" />
     <region id="Config">
         <node id="root">
@@ -38,7 +38,7 @@
                     <attribute id="Author" value="Larian Studios" type="30" />
                     <attribute id="Description" value="Main game" type="30" />
                     <attribute id="Folder" value="Main" type="30" />
-                    <attribute id="MD5" value="7b84bd28a6d042de2567d82123362310" type="23" />
+                    <attribute id="MD5" value="fabbb7c2143d859b20326b414bc72adb" type="23" />
                     <attribute id="MenuLevelName" value="Menuscreen_Cyseal" type="22" />
                     <attribute id="Name" value="Main" type="22" />
                     <attribute id="NumPlayers" value="4" type="1" />
