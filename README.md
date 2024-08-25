@@ -1,4 +1,8 @@
 
+<a href="https://www.buymeacoffee.com/krisives" target="_blank"><img
+src="https://cdn.buymeacoffee.com/buttons/v2/arial-orange.png" alt="Buy Me A
+Coffee" height="50px" ></a>
+
 # Divinity Original Sin 4 Player Patch
 
 ![Screenshot](/screenshot.png?raw=true)
